@@ -2,7 +2,7 @@
 
 An application that on a given url, 
 crowls a web page and gets all words,
-sorting them form the most frequent
+sorts and counts them.
 
 ## Installation
 
